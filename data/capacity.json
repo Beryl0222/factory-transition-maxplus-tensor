@@ -1,0 +1,7 @@
+{
+  "segments": 512,
+  "state_count": 80,
+  "max_sources_per_state": 16,
+  "peak_scratch_bytes": 8388608,
+  "seed": 520
+}
